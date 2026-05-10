@@ -22,13 +22,14 @@ Celem projektu jest opracowanie oraz porównanie wybranych modeli uczenia maszyn
 
 Projekt został zrealizowany w języku Python 3.14.2 z wykorzystaniem następujących bibliotek:
 
-- pandas  
-- numpy  
-- matplotlib  
-- seaborn  
-- scikit-learn  
-- catboost  
-- shap  
+- pandas 2.3.3
+- numpy 2.3.5
+- matplotlib 3.10.7
+- seaborn 0.13.2
+- scipy 1.16.3
+- scikit-learn 1.7.2 
+- catboost 1.2.8
+- shap 0.51.0
 
 ---
 
@@ -46,7 +47,7 @@ cd diploma
 ### 2. Zainstaluj wymagane biblioteki
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn catboost shap
+pip install -r requirements.txt
 ```
 ### 3. Uruchom Jupyter Notebook
 
