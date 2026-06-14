@@ -40,8 +40,8 @@ Projekt został przygotowany w formie Jupyter Notebook.
 ### 1. Sklonuj repozytorium
 
 ```bash
-git clone https://github.com/p0mona/diploma.git
-cd diploma 
+git clone https://github.com/p0mona/uni_thesis.git
+cd uni_thesis 
 ```
 
 ### 2. Zainstaluj wymagane biblioteki
